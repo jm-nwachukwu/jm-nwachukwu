@@ -1,4 +1,4 @@
-# Joseph M. Nwachukwu — Data Analytics Portfolio
+## Joseph M. Nwachukwu - Data Analytics Portfolio
 
 📍 Abuja, Nigeria  
 📧 josephnwachukwu609@gmail.com  
@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
 I am a Junior Data Analyst with hands-on experience delivering end-to-end data analysis using Python, SQL, Excel, Power BI, and Tableau. My work focuses on transforming messy, real-world data into clean, reliable insights that support data-driven decision-making.
 
@@ -21,7 +21,7 @@ I am actively building toward a transition into data science and machine learnin
 
 ---
 
-## 📁 Featured Projects
+### 📁 Featured Projects
 
 ### 🔹 US Superstore Sales Forecasting & Business Intelligence
 - Performed full-cycle data analysis on a year-long U.S. retail dataset.
@@ -43,7 +43,7 @@ I am actively building toward a transition into data science and machine learnin
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 - **Languages:** Python, SQL, R  
 - **Tools:** Excel, Power BI, Tableau  
@@ -52,7 +52,7 @@ I am actively building toward a transition into data science and machine learnin
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 - Foundations: Data, Data, Everywhere — Google (Coursera)  
 - Prepare Data for Exploration — Google (Coursera)  
@@ -61,7 +61,7 @@ I am actively building toward a transition into data science and machine learnin
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 If you’re hiring for a Junior Data Analyst role or collaborating on a data project, feel free to reach out.
 
